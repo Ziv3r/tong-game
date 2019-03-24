@@ -1,7 +1,7 @@
 # TONG-GAME
 
 
-The game made by myself and Ziv Haltzband for school as first object oriented project.
+The game made by myself and Noam Levy for school as first object oriented project.
 
 Game instructions:
 
